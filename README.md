@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-  <title>Gaming Portfolio Website</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-
-    h1 {
-      color: #333;
-    }
-
-    p {
-      margin-bottom: 10px;
-    }
-
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-  </style>
-</head>
-
-<body>
   <h1>Gaming Portfolio Website</h1>
 
   <h2>Features</h2>
