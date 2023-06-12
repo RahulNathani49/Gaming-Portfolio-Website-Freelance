@@ -21,8 +21,3 @@
     <li>Deploy the website to a hosting platform of your choice.</li>
   </ol>
 
-  <h2>License</h2>
-  <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
-</body>
-
-</html>
